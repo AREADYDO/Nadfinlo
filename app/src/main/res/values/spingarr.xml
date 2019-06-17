@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spingarr">
+        <item>CA01-公共区-1区 (搅料, 维修)</item>
+        <item>CA02-公共区-2区 (宿舍, 食堂)</item>
+        <item>CA03-公共区-3区 (车库, 垃圾收集区, 危险品库)</item>
+        <item>MB00-主楼(整栋)</item>
+        <item>MB01A-主楼1楼A区(货仓－收/出货区)</item>
+        <item>MB01B-主楼1楼B区(工模, 模仓)</item>
+        <item>MB01C-主楼1楼C区(货仓－出货区, 氟化, 吹塑)</item>
+        <item>MB02A-主楼2楼A区(货仓－物料仓)</item>
+        <item>MB02B-主楼2楼B区(办公室, 实验室, 工程制作室，验货房)</item>
+        <item>MB02C-主楼2楼C区(注塑,  工程自动化)</item>
+        <item>MB03A-主楼3楼A区(货仓－工具箱成品)</item>
+        <item>MB03B-主楼3楼B区(货仓－工具箱成品)</item>
+        <item>MB03C-主楼3楼C区(货仓－工具箱成品, 喷漆)</item>
+        <item>MB04A-主楼4楼A区(货仓－内销玩具成品)</item>
+        <item>MB04B-主楼4楼B区(货仓－外销玩具成品)</item>
+        <item>MB04C-主楼4楼C区(货仓－外销玩具成品)</item>
+        <item>MB05A-主楼5楼A区(货仓－散客成品)</item>
+        <item>MB05B-主楼5楼B区(货仓－散客成品)</item>
+        <item>MB05C-主楼5楼C区(货仓－散客成品)</item>
+        <item>MB06A-主楼6楼A区(货仓－注塑半成品)</item>
+        <item>MB06B-主楼6楼B区(货仓－吹塑半成品)</item>
+        <item>MB06C-主楼6楼C区(货仓－吹塑半成品)</item>
+        <item>VS00-供应商位置(固定资产)</item>
+        <item>WS02-车间-2号(二厂, 吹塑, 后加工)</item>
+        <item>WS03-车间-3号(吹塑)</item>
+        <item>WS04-车间-4号(吹塑, 车间办公室)</item>
+        <item>WS05-车间-5号(吹塑,丝印)</item>
+        <item>WS06-车间-6号(吹塑, 模仓, 总务)</item>
+        <item>WS07-车间-7号 (喷涂,丝印)</item>
+        <item>WS08-车间-8号 (后加工)</item>
+        <item>WS09-车间-9号 (注塑, 五金)</item>
+        <item>WS10-车间-10号(锯料, 拉粒)</item>
+    </string-array>
+</resources>
